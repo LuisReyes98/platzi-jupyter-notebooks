@@ -15,3 +15,23 @@ Ambos son útiles, aunque los Scripts son mas directos, los Notebooks te permite
 
 **Notebooks**
 Los notebooks son mas interactivos y como un reporte en vivo en el cual puedes ver cual fue el proceso creativo y analitico que se hizo para llegar a los resultados.
+
+## Google Colab: primeros pasos
+
+Es un sistema basado en notebooks y estos se almacenan en tu google drive
+
+### Notebooks en la nube vs en local
+
+- ambos son utiles
+- Configuracion de entorno (en la nube ya esta todo listo en local se debe configurar)
+- Tiempos de ejecución
+- Escalabilidad (en proyectos grandes con un dataset mas grande que la capacidad de mi computadora)
+
+### Google Colab
+
+- Servicio en la nube
+- Basado en Jupyter Notebooks
+- No requiere configuración
+- Trabajo a nivel de archivo
+
+- Uso gratiuto de GPUs y TPUs
