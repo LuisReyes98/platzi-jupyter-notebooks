@@ -35,3 +35,27 @@ Es un sistema basado en notebooks y estos se almacenan en tu google drive
 - Trabajo a nivel de archivo
 
 - Uso gratiuto de GPUs y TPUs
+
+## Utilizar Deepnote
+
+- Servicio en la nube
+- Basado en Jupyter Notebooks
+- No requiere configuración
+- Trabaja a nivel de **proyecto**
+
+Poseé
+
+- Colaboracion en tiempo real
+- Integracion con multiples apps
+- Acceso a una terminal o linea de comandos
+
+- Almacenamiento de variables de entorno
+- Publicar proyectos (construir portafolio)
+
+Interfaz muy bonita y limpia de visualizacion de archivos subidos
+
+Deep note extendio los tipos de bloques disponibles originalmente solo markdown o codigo, en deepnote deja agregar celdas de graficas y de visualizacion del resultado de sentencias SQL a un dataframe
+
+**Ver comandos disponibles:** CTRL + P
+
+Además Deepnote permite compartir proyectos mediante un link o publicar el notebook en un formato de Dashboard o Articulo.
