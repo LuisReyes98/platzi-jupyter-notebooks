@@ -59,3 +59,9 @@ Deep note extendio los tipos de bloques disponibles originalmente solo markdown 
 **Ver comandos disponibles:** CTRL + P
 
 Además Deepnote permite compartir proyectos mediante un link o publicar el notebook en un formato de Dashboard o Articulo.
+
+## Instalar VSCode
+
+## Agregar extensiones para VSCode
+
+## Uso de VSCode notebooks
