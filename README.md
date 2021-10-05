@@ -171,7 +171,7 @@ conda env export --no-builds
 conda env export --from-history
 
 #Exportar tu ambiente a un archivo
-conda env export --from-history --file environment.yam
+conda env export --from-history --file environment.yaml
 
 #Remover ambiente
 conda env remove --name py39
@@ -182,3 +182,25 @@ conda env create --file environment.yaml
 #Ir al ambiente
 conda activate py39
 ```
+
+## Acelerar la creación de ambientes virtuales con Mamba
+
+[Mamba](https://mamba.readthedocs.io/en/latest/)
+
+Es un CLI que funciona a reemplazo de conda
+
+[Instalar mamba](https://mamba.readthedocs.io/en/latest/installation.html)
+
+para instalar
+
+```sh
+mamba conda install mamba -n base -c conda-forge
+```
+
+crear ambiente de conda en mamba
+
+```sh
+mamba env create --file environment.yaml
+```
+
+**Mamba** funciona para manejar los paquetes con mayor rapidez aun asi se siguen activando con **conda**.

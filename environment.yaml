@@ -1,0 +1,20 @@
+name: datascience_ml
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
+  - ipykernel
+  - pylint
+  - pycodestyle
+  - autopep8
+  - nbconvert
+  - sympy
+  - scipy
+  - xlrd
+  - scikit-learn
+  - seaborn
+  - pydotplus
+  - tensorflow
+prefix: /home/luis/anaconda3/envs/datascience_ml
