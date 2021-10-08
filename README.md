@@ -204,3 +204,17 @@ mamba env create --file environment.yaml
 ```
 
 **Mamba** funciona para manejar los paquetes con mayor rapidez aun asi se siguen activando con **conda**.
+
+## Bonus: divide y vencerás
+
+Al dividir cada proyecto en multiples ambientes virtuales se evita problema de colision de dependencias para cada uno de los segmentos del proyecto
+
+Estos segmentos pueden ser por ejemplo: Externos, Modelo, Comunicacion
+
+Una herramienta que nos permite realizar esto es [SnakeMake](https://snakemake.readthedocs.io/en/stable/)
+
+y para [aplicarla Snakemake](https://snakemake.readthedocs.io/en/stable/snakefiles/deployment.html#integrated-package-management)
+
+## Notas finales
+
+[Notas estudiante](https://cristianiniguez.notion.site/Curso-de-Entorno-de-Trabajo-para-Ciencia-de-Datos-con-Jupyter-Notebooks-y-Anaconda-139367c3b9ee4302af64aea624b1cc81)
